@@ -88,6 +88,7 @@ SET(PROJECT_SOURCES
         src/stm32f4xx_it.h
         src/system_stm32f4xx.c
         src/stm32f4xx_hal_msp.c
+        startup/startup_stm32f417xx.s
         )
 
 # Флаги компилятора для разных типов сборки.
